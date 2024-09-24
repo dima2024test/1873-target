@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RemoteSiteSetting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Pharos.ai login URL for connected org Target Master 1.873 Source - production (00Dbm000008zDmv)</description>
+    <disableProtocolSecurity>false</disableProtocolSecurity>
+    <isActive>true</isActive>
+    <url>https://sourcemaster1873-dev-ed.develop.my.salesforce.com</url>
+</RemoteSiteSetting>
